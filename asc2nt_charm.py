@@ -8,7 +8,7 @@ from datetime import datetime
 
 # ================== 配置 ==================
 PRODUCT_ID = 376
-PRODUCT_NAME = "[09.20 1:1 부채꾸미기]어센트(ASC2NT) 2nd Mini Album [Still with you]"
+PRODUCT_NAME = "[09.20 1:1 부적 만들기]어센트(ASC2NT) 2nd Mini Album [Still with you]"
 
 # 要监控的选项及其自定义 CSV 文件名（只监控这些选项，其他忽略）
 # 格式：{"选项名称": "自定义文件名.csv"}
